@@ -11,7 +11,7 @@ npm install
 npm run dev
 ```
 
-## img links 
+## images links 
   1) https://raw.githubusercontent.com/ShravaniMitkar/Vue-OTT-Platform/master/Project Information/img_1.png
   2) https://raw.githubusercontent.com/ShravaniMitkar/Vue-OTT-Platform/master/Project Information/img_2.png
   3) https://raw.githubusercontent.com/ShravaniMitkar/Vue-OTT-Platform/master/Project Information/image.png
